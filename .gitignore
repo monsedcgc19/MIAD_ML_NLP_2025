@@ -1,3 +1,4 @@
 rawfiles/
 .DS_Store
 **/*.ipynb_checkpoints/
+model_deployment/__pycache__/m09_model_deployment.cpython-312.pyc
